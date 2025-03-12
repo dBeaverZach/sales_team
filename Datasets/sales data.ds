@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><dataset draft="false"><queries><query id="8ca655cd-0fbd-40ac-be05-2f77dce69949" data-source="postgres-jdbc-1949437d108-2451824e1a684c6f" queryText="select * from public.financial_data_pg fdp" catalog="postgres" schema="public"/></queries></dataset>
